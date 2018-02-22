@@ -1,0 +1,7 @@
+{
+  "name": "Hue_Dimmer_Mobile",
+  "displayName": "Hue Dimmer",
+  "expo": {
+    "sdkVersion": "25.0.0"
+  }
+}
